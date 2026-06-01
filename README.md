@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sidharth 👋
 
-<!--
-**Sidharth-maker/Sidharth-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student at TKM College of Engineering
 
-Here are some ideas to get you started:
+🔒 Currently Learning Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Learning Linux
+
+🌐 Learning Networking
+
+🥈 State Silver Medalist in Karate
+
+## Current Goals
+
+- Complete Google Cybersecurity Professional Certificate
+- Complete TryHackMe Pre-Security Path
+- Learn Git & GitHub
+- Build Cybersecurity Projects
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sidharth-kishore-80192a395
