@@ -1,6 +1,6 @@
 # Hi, I'm Sidharth 👋
 
-🎓 ECE Student at TKM College of Engineering
+🎓 ER Student at TKM College of Engineering
 
 🔒 Currently Learning Cybersecurity
 
