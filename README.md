@@ -19,4 +19,4 @@
 
 ## Connect With Me
 
-- LinkedIn: www.linkedin.com/in/sidharth-kishore-80192a395
+- 💼 [LinkedIn](https://www.linkedin.com/in/sidharth-kishore-80192a395)
